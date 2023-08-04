@@ -28,7 +28,3 @@ let min = Math.min(...arr1)
 console.log(`Минимальное значение в массиве - ${min}`)
 let three = arr1.includes(3)
 console.log(`Наличие числа 3 в массиве: ${three}`)
-//4 задание
-for(i = 0; i<=20; i++){
-    console.log('x' * Number(i))
-}
